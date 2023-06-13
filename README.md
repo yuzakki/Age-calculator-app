@@ -9,11 +9,11 @@ Age Calculator app built with HTML, CSS, and JavaScript. Calculates age in years
 # Features
 ## Calculate Age: 
 The app allows users to enter their date of birth and calculates their age in years, months, and days.
-## User-Friendly Interface: 
+### User-Friendly Interface: 
 The app has a clean and intuitive user interface that makes it easy for users to enter their date of birth and view their age.
-## Responsive Design: 
+### Responsive Design: 
 The app is designed to be responsive and can be used on any device, including desktops, laptops, tablets, and smartphones.
-## Cross-Platform Compatibility: 
+### Cross-Platform Compatibility: 
 The app can be run on any modern web browser, including Chrome, Firefox, Safari, and Edge.
 Getting Started
 To get started with the Age Calculator app, simply clone this repository to your local machine and open the index.html file in your web browser. The app should load automatically and you can start using it right away.
