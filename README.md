@@ -2,7 +2,9 @@
 Age Calculator app built with HTML, CSS, and JavaScript. Calculates age in years, months, and days. Responsive design for modern web browsers. Contributions welcome under the MIT License.
 
 # Screenshot
-(./design/desktop-preview.jpg)
+
+![Final Result](./design/desktop-preview.jpg)
+
 
 # Features
 Calculate Age: The app allows users to enter their date of birth and calculates their age in years, months, and days.
