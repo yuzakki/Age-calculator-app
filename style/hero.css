@@ -238,7 +238,7 @@ footer p {
   font-family: sans-serif;
   color: var(--black-color);
 }
-footer a {
+footer p a {
   color:  #FF4136;
   font-weight: bold;
   /* text-decoration: none; */
