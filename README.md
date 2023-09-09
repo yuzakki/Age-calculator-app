@@ -16,9 +16,6 @@ Cross-Platform Compatibility: The app can be run on any modern web browser, incl
 #### Getting Started :
 To get started with the Age Calculator app, simply clone this repository to your local machine and open the index.html file in your web browser. The app should load automatically and you can start using it right away.
 
-# Contributing
-We welcome contributions to the Age Calculator app. If you would like to contribute, please fork the repository and submit a pull request with your changes. We will review your changes and merge them if they meet our standards.
-
 # License
 The Age Calculator app is licensed under the MIT License, which means that you are free to use, modify, and distribute the app for any purpose, including commercial use, as long as you include the original copyright and license notice in any copies or derivative works.
 
